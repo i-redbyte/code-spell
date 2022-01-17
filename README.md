@@ -15,6 +15,15 @@
 - 6 [Заклинание кода: Вав](Wav.md)
 - 7 [Заклинание кода: Заин](Zain.md)
 
+Ссылки:
+- [Книга двойных слов I      том (Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 1)](https://www.intel.ru/content/www/ru/ru/architecture-and-technology/64-ia-32-architectures-software-developer-vol-1-manual.html)
+- [Книга двойных слов II(A)  том (Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 2A)](https://www.intel.ru/content/www/ru/ru/architecture-and-technology/64-ia-32-architectures-software-developer-vol-2a-manual.html)
+- [Книга двойных слов II(B)  том (Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 2B)](https://www.intel.ru/content/www/ru/ru/architecture-and-technology/64-ia-32-architectures-software-developer-vol-2b-manual.html)
+- [Книга двойных слов II(C)  том (Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 2C)](https://www.intel.ru/content/www/ru/ru/architecture-and-technology/64-ia-32-architectures-software-developer-vol-2c-manual.html)
+- [Книга двойных слов III(A) том (Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 3A)](https://www.intel.ru/content/www/ru/ru/architecture-and-technology/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.html)
+- [Книга двойных слов III(B) том (Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 3B)](https://www.intel.ru/content/www/ru/ru/architecture-and-technology/64-ia-32-architectures-software-developer-vol-3b-part-2-manual.html)
+- [Книга двойных слов III(C) том (Intel® 64 and IA-32 Architectures Developer's Manual: Vol. 3C)](https://www.intel.ru/content/www/ru/ru/architecture-and-technology/64-ia-32-architectures-software-developer-vol-3c-part-3-manual.html)
+
 ```
 _ _ _ ____ ____ _  _ 
 | | | |__| [__  |\/| 
